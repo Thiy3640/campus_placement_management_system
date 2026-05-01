@@ -1,10 +1,10 @@
-# 🎓 Campus Placement Management System
+# Campus Placement Management System
 
 A full-stack web application for managing campus placements, built as a Database Management System case study. The system handles student registrations, company profiles, job postings, and applications — with enforcement of the institute's **"Dream Offer" (2.5 LPA Upgrade) Rule**.
 
 ---
 
-## ✨ Features
+## Features
 
 ### Core Operations
 - **Student Management** — Register, update, and track students with academic details (CGPA, 10th/12th %, core skills)
@@ -19,16 +19,16 @@ A full-stack web application for managing campus placements, built as a Database
 - **Offer Limit** — Maximum 2 offers per student (1 standard + 1 dream)
 
 ### Reports & Analytics
-- 📊 **Dashboard** — Live placement statistics at a glance
-- 📋 **Placement Status Report** — All placed students with offer details
-- 🔍 **Eligible Jobs Checker** — Find jobs a specific student qualifies for
-- 🎯 **Unplaced High-CGPA Students** — Alphabetical list of unplaced students with CGPA ≥ 8.0
-- 🏢 **Jobs per Company** — Aggregated job count by company
-- 🌟 **CTC Upgrade Eligibility** — Placed students eligible for Dream Offers
+- **Dashboard** — Live placement statistics at a glance
+- **Placement Status Report** — All placed students with offer details
+- **Eligible Jobs Checker** — Find jobs a specific student qualifies for
+- **Unplaced High-CGPA Students** — Alphabetical list of unplaced students with CGPA ≥ 8.0
+- **Jobs per Company** — Aggregated job count by company
+- **CTC Upgrade Eligibility** — Placed students eligible for Dream Offers
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -39,7 +39,7 @@ A full-stack web application for managing campus placements, built as a Database
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.8+
@@ -93,7 +93,7 @@ campus_placement_management_system/
 
 ---
 
-## 📐 Database Schema
+## Database Schema
 
 Based on the ER model with BCNF normalization:
 
@@ -104,7 +104,7 @@ Based on the ER model with BCNF normalization:
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -126,13 +126,13 @@ Based on the ER model with BCNF normalization:
 
 ---
 
-## 👨‍💻 Created By
+## Created By
 
 - **Thiyam Chingu Robaartt**
 - **Robertson Athokpam**
 
 ---
 
-## 📄 License
+## License
 
 This project is developed as an academic case study for Database Management Systems.
